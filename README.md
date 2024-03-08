@@ -1,14 +1,3 @@
-# GUI_Calculator_using_Java
-
-## Given Task
-![Task](https://user-images.githubusercontent.com/95247831/200533939-72b168fa-061c-4815-9023-861795e04d8a.png)
-## Created GUI calculator
-![GUI1](https://user-images.githubusercontent.com/95247831/200533958-f777ab41-c9fb-468f-9fc8-422a0638b61e.png)
-![GUI2](https://user-images.githubusercontent.com/95247831/200533962-e3034010-718e-4a51-99a0-c99876698c56.png)
-![GUI3](https://user-images.githubusercontent.com/95247831/200533964-bff2677e-6a77-4b82-aafe-b43affd64fbc.png)
-
-
-
 
 # Java GUI Calculator
 
@@ -25,6 +14,33 @@ This Java GUI calculator is a versatile application offering basic arithmetic op
 - **Change of Sign**: Convert numbers between positive and negative with a single button click.
 - **Text Field Interaction**: Real-time display of entered numbers and calculation results.
 
+
+## Given Task
+
+
+  <table>
+  <tr>
+    <td>Task</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200533939-72b168fa-061c-4815-9023-861795e04d8a.png" width=600></td>
+  </tr>
+  <table>
+
+  
+  <table>
+  <tr>
+    <td>GUI1</td>
+    <td>GUI2</td>
+    <td>GUI3</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200533958-f777ab41-c9fb-468f-9fc8-422a0638b61e.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200533962-e3034010-718e-4a51-99a0-c99876698c56.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200533964-bff2677e-6a77-4b82-aafe-b43affd64fbc.png" width=400></td>
+  </tr>
+  <table>
+    
 ## Usage
 
 1. **Numeric Input**: Click numeric buttons (0-9) to input numbers.
