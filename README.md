@@ -3,6 +3,9 @@
 
 This Java GUI calculator is a versatile application offering basic arithmetic operations, trigonometric functions, and their inverses through an intuitive graphical user interface.
 
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-D41818?style=flat&logo=java&logoColor=white)
+
+
 ## Features
 
 - **User-Friendly Interface**: A clean and easy-to-navigate GUI that allows users to perform a wide range of calculations effortlessly.
